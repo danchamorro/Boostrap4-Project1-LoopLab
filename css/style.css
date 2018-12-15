@@ -25,6 +25,14 @@ body {
   background: rgba(0, 0, 0, 0.7);
 }
 
+#explore-section .fa,
+#share-section .fa {
+  background: #333;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
 #home-section .home-inner {
   padding-top: 150px;
 }
