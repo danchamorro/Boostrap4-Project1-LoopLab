@@ -25,10 +25,10 @@ body {
   background: rgba(0, 0, 0, 0.7);
 }
 
-#explore-section .fa,
+#home-section .fa,
 #share-section .fa {
-  background: #333;
-  color: white;
+  background: white;
+  color: #008ed6;
   padding: 5px;
   border-radius: 5px;
 }
@@ -44,6 +44,13 @@ body {
 #home-section .fas {
   color: #008ed6;
   background: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#create-section .fa {
+  background: white;
+  color: #008ed6;
   padding: 5px;
   border-radius: 5px;
 }
